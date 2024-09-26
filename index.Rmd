@@ -1,6 +1,6 @@
 ---
 title: "PS270 Final Project"
-author: "Your Name Here"
+author: "Grace Fragakis"
 description: "My final project"
 output:
   distill::distill_article:
@@ -11,4 +11,6 @@ output:
 
 ## Project thoughts
 
-I am interested in exploring data related to...
+I am interested in exploring data related to fashion, or environmental issues. I would consider combining the two and finding data related to environmental damages in different countries due to fashion trends or consumerism. 
+
+I am also interested in exploring data related to the amount of soda consumed in each state of the United states, specifically Diet Dr. Pepper. 
