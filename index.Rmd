@@ -44,5 +44,14 @@ ggplot(combined_data, aes(x = Year, y = Mean, color = Source)) +
 
 ```
 
+```{r}
 
+ggplot(gl_mean, aes(x = Mean)) +
+  geom_density(fill = "blue", alpha = 0.5) +
+  labs(title = "Density Plot of CO2 Concentrations (Global Annual Mean)",
+       x = "Mean CO2 Concentration (ppm)",
+       y = "Density")
+
+
+```
 
